@@ -76,7 +76,7 @@ MIT License - Free to use for personal and commercial projects.
 
 ## Author
 
-- GitHub: [@your-username](https://github.com/Shisaku918)
+- GitHub: [@Shigeru3e7](https://github.com/Shigeru3e7)
 
 ---
 
